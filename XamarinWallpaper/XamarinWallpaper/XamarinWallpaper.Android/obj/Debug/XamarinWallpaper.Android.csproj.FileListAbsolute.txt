@@ -1,0 +1,191 @@
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csprojResolveAssemblyReference.cache
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.dll
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\com.companyname.XamarinWallpaper.apk
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\com.companyname.XamarinWallpaper-Signed.apk
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.dll
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csproj.CoreCompileInputs.cache
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csproj.CopyComplete
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.dll
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\bin\com.companyname.XamarinWallpaper.apk
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable\icon.png
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-hdpi\icon.png
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-xhdpi\icon.png
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\layout\tabbar.xml
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\layout\toolbar.xml
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\values\styles.xml
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\R.cs.flag
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\uploadflags.txt
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Android.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\mscorlib.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Core.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Xml.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Xml.Linq.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Net.Http.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Runtime.Serialization.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.ServiceModel.Internals.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Data.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Numerics.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Transactions.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Data.Tds.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Security.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.IO.Compression.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.ComponentModel.Composition.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Web.Services.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Android.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\mscorlib.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Core.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Xml.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Net.Http.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Data.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Numerics.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Transactions.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Security.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Web.Services.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\FormsViewGroup.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\XamarinWallpaper.Android.dll.mdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Android.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Security.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\mscorlib.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Core.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Data.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Net.Http.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Numerics.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Transactions.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Web.Services.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Xml.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\com.companyname.XamarinWallpaper.apk
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\com.companyname.XamarinWallpaper-Signed.apk
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csproj.CoreCompileInputs.cache
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.csproj.CopyComplete
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\XamarinWallpaper.Android.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\bin\com.companyname.XamarinWallpaper.apk
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable\icon.png
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\layout\tabbar.xml
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\layout\toolbar.xml
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\res\values\styles.xml
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\R.cs.flag
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\uploadflags.txt
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Android.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Data.Tds.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Mono.Security.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\mscorlib.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Core.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Data.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.IO.Compression.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Net.Http.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Numerics.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Transactions.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Web.Services.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\System.Xml.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\XamarinWallpaper.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Core.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Data.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\android\assets\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Core.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Data.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\bin\Debug\XamarinWallpaper.Android.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\XamarinWallpaper.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb

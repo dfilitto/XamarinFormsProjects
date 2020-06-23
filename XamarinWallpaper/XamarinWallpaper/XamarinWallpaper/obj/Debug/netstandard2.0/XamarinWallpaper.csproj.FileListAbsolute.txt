@@ -1,0 +1,22 @@
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.deps.json
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.dll
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.csprojResolveAssemblyReference.cache
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.csproj.CoreCompileInputs.cache
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.App.xaml.g.cs
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.MainPage.xaml.g.cs
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.AssemblyInfoInputs.cache
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.AssemblyInfo.cs
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.pdb
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.dll
+d:\Danilo Filitto\Documents\Visual Studio 2017\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.deps.json
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\bin\Debug\netstandard2.0\XamarinWallpaper.pdb
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.csproj.CoreCompileInputs.cache
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.App.xaml.g.cs
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.MainPage.xaml.g.cs
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.AssemblyInfoInputs.cache
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.AssemblyInfo.cs
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.dll
+D:\Danilo Filitto\Documents\Projects\XamarinWallpaper\XamarinWallpaper\XamarinWallpaper\obj\Debug\netstandard2.0\XamarinWallpaper.pdb
