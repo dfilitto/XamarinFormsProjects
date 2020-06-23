@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEsqueci.Views.PageHome" Title="APP ESQUECI">
+    <ContentPage.Content>
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="100" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Image Source="esqueci1.png" 
+                   Grid.Row="0" Grid.Column="0"
+                   Grid.ColumnSpan="2"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="CenterAndExpand"/>
+
+            <Image x:Name="imgInserir" Source="inserir.png" 
+                   Grid.Row="1" Grid.Column="0"
+                   VerticalOptions="End">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                                Tapped="TapGestureRecognizer_Tapped"
+                                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image x:Name="imgLocalizar" Source="localizar.png" 
+                   Grid.Row="1" Grid.Column="1"
+                   VerticalOptions="End">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                                Tapped="TapGestureRecognizer_Tapped_1"
+                                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Label Text="Cadastrar" 
+                   Grid.Row="2" Grid.Column="0" FontSize="Large"
+                   HorizontalOptions="Center"
+                   VerticalOptions="End"/>
+            <Label Text="Localizar" 
+                   Grid.Row="2" Grid.Column="1" FontSize="Large"
+                   HorizontalOptions="Center"
+                   VerticalOptions="End"/>
+            
+            <!--<Image Source="info2.png" />-->
+            
+            <!--<Image Source="info.png" />-->
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

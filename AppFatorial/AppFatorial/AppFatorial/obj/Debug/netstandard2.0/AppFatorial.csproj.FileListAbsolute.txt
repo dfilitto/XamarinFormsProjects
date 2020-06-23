@@ -1,0 +1,12 @@
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.deps.json
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.dll
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.pdb
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.dll
+D:\Users\Danilo Filitto\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.pdb

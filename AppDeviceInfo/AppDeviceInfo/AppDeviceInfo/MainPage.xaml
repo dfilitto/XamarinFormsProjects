@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppDeviceInfo.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Image Source="https://dfilitto.com.br/wp-content/uploads/2020/03/logo-normal.png" />
+        <Label Text="Device Info" 
+           HorizontalOptions="Center"
+           FontSize="Large" />
+        <Label Text="Device Model"/>
+        <Entry x:Name="etModel" IsEnabled="False"/>
+        <Label Text="Manufacture"/>
+        <Entry x:Name="etManifacture" IsEnabled="False"/>
+        <Label Text="Device Name"/>
+        <Entry x:Name="etName" IsEnabled="False"/>
+        <Label Text="Operatin System"/>
+        <Entry x:Name="etSO" IsEnabled="False"/>
+        <Label Text="Platform"/>
+        <Entry x:Name="etPlatform" IsEnabled="False"/>
+        <Label Text="Idiom"/>
+        <Entry x:Name="etIdiom" IsEnabled="False"/>
+        <Label Text="Device Type"/>
+        <Entry x:Name="etType" IsEnabled="False"/>
+    </StackLayout>
+
+</ContentPage>

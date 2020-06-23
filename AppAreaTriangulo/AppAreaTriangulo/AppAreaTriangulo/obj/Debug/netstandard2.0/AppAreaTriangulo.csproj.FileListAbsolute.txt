@@ -1,0 +1,12 @@
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\bin\Debug\netstandard2.0\AppAreaTriangulo.deps.json
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\bin\Debug\netstandard2.0\AppAreaTriangulo.dll
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\bin\Debug\netstandard2.0\AppAreaTriangulo.pdb
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.dll
+D:\Users\Danilo Filitto\source\repos\AppAreaTriangulo\AppAreaTriangulo\AppAreaTriangulo\obj\Debug\netstandard2.0\AppAreaTriangulo.pdb

@@ -1,0 +1,14 @@
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.deps.json
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.dll
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\ref\AppBuscaSites.dll
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.pdb
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.dll
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\ref\AppBuscaSites.dll
+D:\Users\Danilo Filitto\source\repos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.pdb

@@ -1,0 +1,16 @@
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\bin\Debug\netstandard2.0\AppNumeroImpar.deps.json
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\bin\Debug\netstandard2.0\AppNumeroImpar.dll
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\bin\Debug\netstandard2.0\ref\AppNumeroImpar.dll
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\bin\Debug\netstandard2.0\AppNumeroImpar.pdb
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\View\PageImpar.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\View\PageInicial.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\View\PagePar.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.dll
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\ref\AppNumeroImpar.dll
+D:\Users\Danilo Filitto\source\repos\AppNumeroImpar\AppNumeroImpar\AppNumeroImpar\obj\Debug\netstandard2.0\AppNumeroImpar.pdb

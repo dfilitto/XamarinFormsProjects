@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HoraDoLanche"
+             x:Class="HoraDoLanche.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+    	<Label Text="Hora do lanche!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           FontSize="Large"/>
+        <Image x:Name="foto" Source="before_cookie.jpg" Aspect="AspectFill" Margin="20"/>
+        <Button Text="Comer!!!" Clicked="Button_Clicked" Margin="20"/>
+    </StackLayout>
+
+</ContentPage>

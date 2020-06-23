@@ -1,0 +1,16 @@
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\bin\Debug\netstandard2.0\AppEsqueci.deps.json
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\bin\Debug\netstandard2.0\AppEsqueci.dll
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\bin\Debug\netstandard2.0\AppEsqueci.pdb
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\Views\PageCadastrar.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\Views\PageHome.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\Views\PageListar.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\Views\PagePrincipal.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\Views\PageSobre.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.dll
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.pdb
+D:\Users\Danilo Filitto\source\repos\AppEsqueci\AppEsqueci\AppEsqueci\obj\Debug\netstandard2.0\AppEsqueci.csprojAssemblyReference.cache

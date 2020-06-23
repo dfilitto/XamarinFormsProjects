@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppEmail"
+             x:Class="AppEmail.MainPage"
+             Title="E-mail Plus">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Programa Para envio de e-mail" 
+           HorizontalOptions="Center"
+           FontSize="Large"/>
+        <!--<Entry x:Name="etReme" Keyboard="Email" Placeholder="Informe seu e-mail" />-->
+        <Entry x:Name="etDest" Keyboard="Email" Placeholder="Informe o e-mail do destinatário" />
+        <Entry x:Name="etAssum" Placeholder="Assunto" />
+        <!-- <Entry x:Name="etTexto" Placeholder="Excreva seu texto aqui"/> -->
+        <Editor x:Name="etTexto" Placeholder="Escreva a sua mensagem aqui" AutoSize="TextChanges" />
+        <Button x:Name="btEnviar" Text="Enviar" Clicked="BtEnviar_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

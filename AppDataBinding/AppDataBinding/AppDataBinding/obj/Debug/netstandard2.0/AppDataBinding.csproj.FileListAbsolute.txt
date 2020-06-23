@@ -1,0 +1,16 @@
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.deps.json
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.dll
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\ref\AppDataBinding.dll
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.pdb
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.dll
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\ref\AppDataBinding.dll
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.pdb
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\View\LoginView.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\View\WelcomeLogin.xaml.g.cs

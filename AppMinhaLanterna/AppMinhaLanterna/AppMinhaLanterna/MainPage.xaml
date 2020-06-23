@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppMinhaLanterna.MainPage" BackgroundColor="White">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label  Text="MINHA LANTERNA" 
+                HorizontalOptions="Center"
+                FontSize="Large"
+                TextColor="Green"
+                Margin="20,0,20,0"/>
+        <ImageButton x:Name="btLigar" 
+                     Source="desligado"
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand"
+                     Margin="20,0,20,0"
+                     Aspect="AspectFill" Clicked="BtLigar_Clicked"/>
+        <Label Text="Programa desenvolvido para as aulas de programação mobile. Clique na logo para descobrir como criar o seu próprio app." 
+               HorizontalOptions="Center"
+               FontSize="Small"
+               TextColor="Green"
+               Margin="20,0,20,0"/>
+        <ImageButton x:Name="btSite" Source="logo" Margin="20,0,20,0" Clicked="BtSite_Clicked" BackgroundColor="Transparent"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\bin\Debug\netstandard2.0\AppEssLanterna.deps.json
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\bin\Debug\netstandard2.0\AppEssLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\bin\Debug\netstandard2.0\ref\AppEssLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\bin\Debug\netstandard2.0\AppEssLanterna.pdb
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\ref\AppEssLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppEssLanterna\AppEssLanterna\AppEssLanterna\obj\Debug\netstandard2.0\AppEssLanterna.pdb

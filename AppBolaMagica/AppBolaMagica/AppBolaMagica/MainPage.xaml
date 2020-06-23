@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppBolaMagica.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Bola mágica 8" 
+           HorizontalOptions="Center"
+           FontSize="Large" />
+        <Image Source="bola8" x:Name="imgBola" VerticalOptions="FillAndExpand"
+               Margin="10,0,10,0"/>
+        <Label Margin="10,0,10,0" x:Name="lbLogo"
+            Text="Projeto desenvolvido nas aulas de programação do professor Danilo Filitto. Clique na logo para criar o seu próprio app."/>
+        <ImageButton Margin="10,0,10,0" Clicked="btSite_Clicked"
+            x:Name="btSite" Source="logo" BackgroundColor="Transparent"/>
+    </StackLayout>
+
+</ContentPage>

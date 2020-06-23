@@ -1,0 +1,14 @@
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\bin\Debug\netstandard2.0\AppDeviceInfo.deps.json
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\bin\Debug\netstandard2.0\AppDeviceInfo.dll
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\bin\Debug\netstandard2.0\ref\AppDeviceInfo.dll
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\bin\Debug\netstandard2.0\AppDeviceInfo.pdb
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.csprojAssemblyReference.cache
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.AssemblyInfoInputs.cache
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.AssemblyInfo.cs
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.csproj.CoreCompileInputs.cache
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.dll
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\ref\AppDeviceInfo.dll
+D:\Users\dfili\source\repos\AppDeviceInfo\AppDeviceInfo\AppDeviceInfo\obj\Debug\netstandard2.0\AppDeviceInfo.pdb

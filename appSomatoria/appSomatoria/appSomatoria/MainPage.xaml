@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:appSomatoria"
+             x:Class="appSomatoria.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Somatória" 
+           HorizontalOptions="Center"/>
+        <Entry x:Name="eV1" />
+        <Entry x:Name="eV2" />
+        <Entry x:Name="eV3" />
+        <Entry x:Name="eV4" />
+        <Button x:Name="btSomar" Text="Somar" />
+        <Label x:Name="lTotal" Text="Total = 0" />
+    </StackLayout>
+
+</ContentPage>

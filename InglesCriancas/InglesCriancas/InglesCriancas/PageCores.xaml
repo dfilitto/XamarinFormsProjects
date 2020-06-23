@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InglesCriancas.PageCores"
+             Title="Cores"
+             BackgroundColor="BlueViolet">
+    <ContentPage.Content>
+        <ScrollView>
+            <!--armazena todas as cores-->
+            <StackLayout>
+                <!--representa uma cor-->
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_black" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Black" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Preto" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_brown" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Brown" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Marrom" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_dusty_yellow" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Dusty Yellow" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Amarelo Empoeirado" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_gray" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Gray" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Cinza" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_green" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Green" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Verde" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_mustard_yellow" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Mustard Yellow" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Amarelo Mostarda" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_red" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Red" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Vermelho" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_white" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: White" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Branco" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

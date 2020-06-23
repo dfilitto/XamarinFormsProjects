@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppAreaTriangulo"
+             x:Class="AppAreaTriangulo.MainPage"
+             Title="Calcula a área de um Triângulo">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Calcula a área de um Triângulo" 
+           HorizontalOptions="Center"
+           FontSize="Large" />
+        <Entry x:Name="eBase" 
+               Keyboard="Numeric" 
+               Placeholder="Informe o valor da base do triângulo"
+               />
+        <Entry x:Name="eAltura" 
+               Keyboard="Numeric" 
+               Placeholder="Informe o valor da altura do triângulo"
+               />
+        <Button x:Name="btExecutar" Text="Calcular" Clicked="BtExecutar_Clicked"/>
+        <Label x:Name="lTotal" 
+               Text="Resposta" 
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+    </StackLayout>
+
+</ContentPage>

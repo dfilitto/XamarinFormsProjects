@@ -1,0 +1,13 @@
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\bin\Debug\netstandard2.0\AppFalaMuito.deps.json
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\bin\Debug\netstandard2.0\AppFalaMuito.dll
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\bin\Debug\netstandard2.0\ref\AppFalaMuito.dll
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\bin\Debug\netstandard2.0\AppFalaMuito.pdb
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\AppFalaMuito.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\AppFalaMuito.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\AppFalaMuito.dll
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\ref\AppFalaMuito.dll
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\AppFalaMuito.pdb
+D:\Users\Danilo Filitto\source\repos\AppFalaMuito\AppFalaMuito\AppFalaMuito\obj\Debug\netstandard2.0\AppFalaMuito.csprojAssemblyReference.cache

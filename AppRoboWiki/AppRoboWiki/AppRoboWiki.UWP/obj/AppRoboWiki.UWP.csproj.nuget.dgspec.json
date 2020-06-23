@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.UWP\\AppRoboWiki.UWP.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.UWP\\AppRoboWiki.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.UWP\\AppRoboWiki.UWP.csproj",
+        "projectName": "AppRoboWiki.UWP",
+        "projectPath": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.UWP\\AppRoboWiki.UWP.csproj",
+        "packagesPath": "D:\\Users\\Danilo Filitto\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\Danilo Filitto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj": {
+                "projectPath": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.1.9, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.425677, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj",
+        "projectName": "AppRoboWiki",
+        "projectPath": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj",
+        "packagesPath": "D:\\Users\\Danilo Filitto\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Danilo Filitto\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\Danilo Filitto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Algorithmia.Client": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.425677, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

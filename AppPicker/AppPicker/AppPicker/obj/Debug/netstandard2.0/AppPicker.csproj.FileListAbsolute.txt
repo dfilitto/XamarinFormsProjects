@@ -1,0 +1,12 @@
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\bin\Debug\netstandard2.0\AppPicker.deps.json
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\bin\Debug\netstandard2.0\AppPicker.dll
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\bin\Debug\netstandard2.0\AppPicker.pdb
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.dll
+D:\Users\Danilo Filitto\source\repos\AppPicker\AppPicker\AppPicker\obj\Debug\netstandard2.0\AppPicker.pdb

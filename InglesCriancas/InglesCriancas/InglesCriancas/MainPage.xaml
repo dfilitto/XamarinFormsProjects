@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:InglesCriancas"
+             x:Class="InglesCriancas.MainPage"
+             Title="Inglês para crianças">
+
+    <StackLayout>
+        <Image Source="logoapp" />
+        <Button Text="Cores" 
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                x:Name="btCores" 
+                Clicked="btCores_Clicked"
+                BackgroundColor="BlueViolet"
+                TextColor="White"
+                Margin="5,0"/>
+        <Button Text="Números" 
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                x:Name="btNumeros"
+                Clicked="btNumeros_Clicked"
+                BackgroundColor="Orange"
+                TextColor="White"
+                Margin="5,0"/>
+        <Button Text="Família" 
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                x:Name="btFamilia"
+                Clicked="btFamilia_Clicked"
+                BackgroundColor="Crimson"
+                TextColor="White"
+                Margin="5,0"/>
+        <Button Text="Sair" 
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                x:Name="btSair"
+                Clicked="btSair_Clicked"
+                Margin="5,0"
+                BackgroundColor="Bisque"
+                TextColor="White"/>
+        <Image Source="logodfilitto" />
+    </StackLayout>
+
+</ContentPage>

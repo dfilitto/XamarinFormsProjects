@@ -1,0 +1,14 @@
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\bin\Debug\netstandard2.0\appSearchBar.deps.json
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\bin\Debug\netstandard2.0\appSearchBar.dll
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\bin\Debug\netstandard2.0\ref\appSearchBar.dll
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\bin\Debug\netstandard2.0\appSearchBar.pdb
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.dll
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\ref\appSearchBar.dll
+D:\Users\Danilo Filitto\source\repos\appSearchBar\appSearchBar\appSearchBar\obj\Debug\netstandard2.0\appSearchBar.pdb

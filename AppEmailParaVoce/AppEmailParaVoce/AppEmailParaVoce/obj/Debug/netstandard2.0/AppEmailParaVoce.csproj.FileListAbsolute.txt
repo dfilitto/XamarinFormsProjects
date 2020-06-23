@@ -1,0 +1,13 @@
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\bin\Debug\netstandard2.0\AppEmailParaVoce.deps.json
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\bin\Debug\netstandard2.0\AppEmailParaVoce.dll
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\bin\Debug\netstandard2.0\ref\AppEmailParaVoce.dll
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\bin\Debug\netstandard2.0\AppEmailParaVoce.pdb
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\AppEmailParaVoce.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\AppEmailParaVoce.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\AppEmailParaVoce.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\AppEmailParaVoce.dll
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\ref\AppEmailParaVoce.dll
+D:\Users\Danilo Filitto\source\repos\AppEmailParaVoce\AppEmailParaVoce\AppEmailParaVoce\obj\Debug\netstandard2.0\AppEmailParaVoce.pdb

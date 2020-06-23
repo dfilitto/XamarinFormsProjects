@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEsqueci.Views.PageSobre"
+             Title="Sobre">
+    <ContentPage.Content>
+        <StackLayout Orientation="Horizontal" Margin="20">
+            <Image Source="esqueci1.png" />
+            <StackLayout Margin="10">
+                <Label Text="Dados do aplicativo" 
+                       FontSize="Large" 
+                       VerticalOptions="EndAndExpand"
+                       FontAttributes="Bold"/>
+                <Label Text="Nome do app: App Esqueci"
+                FontAttributes="Bold"
+                FontSize="Medium"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start"/>
+                <Label Text="Descrição do projeto: Projeto desenvolvido como parte do curso Xamarin Módulo 1"
+                FontAttributes="Bold"
+                FontSize="Medium"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start"/>
+                <Label Text="Autor: Danilo Filitto"
+                FontAttributes="Bold"
+                FontSize="Medium"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

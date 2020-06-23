@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppFalaMuito.MainPage"
+             Title="Fala Muito"
+             BackgroundColor="#B9CDD6">
+
+    <StackLayout >
+        <!-- Place new controls here -->
+        <Image Source="falamuito2" HorizontalOptions="FillAndExpand" Aspect="Fill"/>
+        <Editor x:Name="etTexto" VerticalOptions="FillAndExpand"
+                Keyboard="Chat" Placeholder="Digite seu texto aqui"
+                BackgroundColor="White" Margin="20,0,20,0"/>
+        <!--<Entry x:Name="etTexto" Placeholder="Digite seu texto aqui" Text="Fala muito" />-->
+        <Label Text="Configurações de fala" 
+           HorizontalOptions="Center"
+           FontSize="Large" Margin="20,0,20,0"/>
+        <Label x:Name="lbVolume" Text="Volume: 50" Margin="20,0,20,0"/>
+        <Slider x:Name="slVolume" Maximum="1" Value="0.5" 
+                ValueChanged="slVolume_ValueChanged" Margin="20,0,20,0"/>
+        <Label x:Name="lbPitch" Text="Pitch: 1" Margin="20,0,20,0"/>
+        <Slider x:Name="slPitch" Maximum="2" Value="1" 
+                Margin="20,0,20,0" ValueChanged="slPitch_ValueChanged"/>
+        <Button x:Name="btFalar" Text="Falar"
+                Margin="20,0,20,0" Clicked="btFalar_Clicked" />
+    </StackLayout>
+
+</ContentPage>

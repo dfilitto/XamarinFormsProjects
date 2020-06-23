@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InglesCriancas.PageFamilia"
+             Title="Família"
+             BackgroundColor="Crimson">
+    <ContentPage.Content>
+        <ScrollView>
+            <!--armazena todas as cores-->
+            <StackLayout>
+                <!--representa uma cor-->
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_daughter" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Daughter" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Filha" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_father" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Father" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Pai" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_grandfather" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Grand Father" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Avô" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_grandmother" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Grand Mother" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Avó" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_mother" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Mother" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Mãe" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_older_brother" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Older Brother" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Irmão mais velho" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_older_sister" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Older Sister" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Irmã mais velha" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_son" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Son" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Filho" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_younger_brother" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Younger Brother" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Irmão mais novo" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="family_younger_sister" />
+                    <!--organiza os textos-->
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês: Younger Sister" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português: Irmã mais nova" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEsqueci.Views.PageCadastrar"
+             Title="Cadastro e alteração de notas">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="txtCodigo" IsVisible="False" IsEnabled="False"/>
+            <Entry x:Name="txtTitulo" Keyboard="Plain" Placeholder="Título da nota"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Nota favorita:" FontSize="Medium"/>
+                <Switch x:Name="swFavorito" HorizontalOptions="Start"/>
+            </StackLayout>
+            <Editor x:Name="txtDados" Keyboard="Plain" Placeholder="Dados da nota"
+                     VerticalOptions="FillAndExpand"
+                    Margin="20"/>
+            <StackLayout Orientation="Horizontal" Margin="20,0,20,20">
+                <Button x:Name="btSalvar" Text="Inserir" Clicked="BtSalvar_Clicked"
+                        HorizontalOptions="FillAndExpand"/>
+                <Button x:Name="btExcluir" Text="Excluir" Clicked="BtExcluir_Clicked"
+                        HorizontalOptions="FillAndExpand" IsVisible="False"/>
+                <Button x:Name="btCancelar" Text="Cancelar"  
+                        HorizontalOptions="FillAndExpand"
+                        Clicked="BtCancelar_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

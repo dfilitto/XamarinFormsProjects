@@ -1,0 +1,10 @@
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.deps.json
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.dll
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.pdb
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.dll
+D:\Users\Danilo Filitto\source\repos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.pdb

@@ -1,0 +1,12 @@
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\bin\Debug\netstandard2.0\appSomatoria.deps.json
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\bin\Debug\netstandard2.0\appSomatoria.dll
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\bin\Debug\netstandard2.0\appSomatoria.pdb
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.dll
+D:\Users\Danilo Filitto\source\repos\appSomatoria\appSomatoria\appSomatoria\obj\Debug\netstandard2.0\appSomatoria.pdb

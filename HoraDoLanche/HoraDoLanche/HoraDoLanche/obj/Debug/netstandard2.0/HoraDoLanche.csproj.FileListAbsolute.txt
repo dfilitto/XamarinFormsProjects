@@ -1,0 +1,11 @@
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.deps.json
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.dll
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.pdb
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.AssemblyInfoInputs.cache
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.AssemblyInfo.cs
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.dll
+C:\Users\Danilo Filitto\source\repos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.pdb

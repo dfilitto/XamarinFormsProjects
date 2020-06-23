@@ -1,0 +1,13 @@
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\bin\Debug\netstandard2.0\AppBolaMagica.deps.json
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\bin\Debug\netstandard2.0\AppBolaMagica.dll
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\bin\Debug\netstandard2.0\ref\AppBolaMagica.dll
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\bin\Debug\netstandard2.0\AppBolaMagica.pdb
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\AppBolaMagica.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\AppBolaMagica.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\AppBolaMagica.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\AppBolaMagica.dll
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\ref\AppBolaMagica.dll
+D:\Users\Danilo Filitto\source\repos\AppBolaMagica\AppBolaMagica\AppBolaMagica\obj\Debug\netstandard2.0\AppBolaMagica.pdb

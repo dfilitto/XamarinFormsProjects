@@ -1,0 +1,4 @@
+D:\Users\Danilo Filitto\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Users\Danilo Filitto\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\81\InglesCriancas.Android.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Users\Danilo Filitto\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\81\res.flag

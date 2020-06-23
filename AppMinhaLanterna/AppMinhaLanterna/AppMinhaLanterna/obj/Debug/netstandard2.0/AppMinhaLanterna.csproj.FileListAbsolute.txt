@@ -1,0 +1,14 @@
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\bin\Debug\netstandard2.0\AppMinhaLanterna.deps.json
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\bin\Debug\netstandard2.0\AppMinhaLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\bin\Debug\netstandard2.0\ref\AppMinhaLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\bin\Debug\netstandard2.0\AppMinhaLanterna.pdb
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.csprojAssemblyReference.cache
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.csproj.CoreCompileInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.AssemblyInfoInputs.cache
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.AssemblyInfo.cs
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\ref\AppMinhaLanterna.dll
+D:\Users\Danilo Filitto\source\repos\AppMinhaLanterna\AppMinhaLanterna\AppMinhaLanterna\obj\Debug\netstandard2.0\AppMinhaLanterna.pdb
