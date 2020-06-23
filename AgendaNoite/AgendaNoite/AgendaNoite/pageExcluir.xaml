@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgendaNoite.pageExcluir">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Excluir Contatos" HorizontalTextAlignment="Center" FontSize="Medium"/>
+            <Label Text="Id"/>
+            <Entry x:Name="txtId" Keyboard="Email" Placeholder="Digite o código" Unfocused="Verificar"/>
+            <Label Text="Nome"/>
+            <Entry x:Name="txtNome" Keyboard="Email" Placeholder="Digite seu nome" IsEnabled="False"/>
+            <Label Text="E-mail"/>
+            <Entry x:Name="txtEmail" Keyboard="Email" Placeholder="Digite seu e-mail" IsEnabled="False"/>
+            <Label Text="Celular"/>
+            <Entry  x:Name="txtCelular" Keyboard="Email" Placeholder="Digite sua número celular" IsEnabled="False"/>
+            <Button x:Name="btExcluir" Text="Excluir" Clicked="Excluir" IsEnabled="False"/>
+            <Button x:Name="btVoltar" Text="Voltar"  Clicked="Voltar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

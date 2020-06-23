@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgendaNoite.pageListar">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Lista de Contatos"
+                VerticalOptions="Fill" 
+                HorizontalOptions="Fill"
+                   BackgroundColor="Black"
+                   FontSize="Large"
+                   TextColor="White"
+                   FontAttributes="Bold"/>
+
+            <ListView x:Name="ListaDeContatos" HasUnevenRows="True" SeparatorColor="Aqua" ItemSelected="AtivaBotoes">
+                <ListView.Header>
+                    <Label Text="Início da Lista"
+                                VerticalOptions="Fill" 
+                                HorizontalOptions="Fill"
+                                BackgroundColor="DarkGray"
+                                FontSize="Large"
+                                HorizontalTextAlignment="Center"
+                                TextColor="White"
+                                FontAttributes="Bold" 
+                                Margin="0"/>
+                </ListView.Header>
+                <ListView.Footer>
+                    <Label      Text="Fim da Lista"
+                                VerticalOptions="Fill" 
+                                HorizontalOptions="Fill"
+                                BackgroundColor="DarkGray"
+                                FontSize="Large"
+                                HorizontalTextAlignment="Center"
+                                TextColor="White"
+                                FontAttributes="Bold" />
+                </ListView.Footer>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Text="Código:" Grid.Column="0" Grid.Row="0"/>
+                                <Label Text="{Binding Id}" Grid.Column="1" Grid.Row="0"/>
+                                <Label Text="Nome:" Grid.Column="0" Grid.Row="1"/>
+                                <Label Text="{Binding Nome}" Grid.Column="1" Grid.Row="1"/>
+                                <Label Text="E-mail:" Grid.Column="0" Grid.Row="2"/>
+                                <Label Text="{Binding Email}" Grid.Column="1" Grid.Row="2"/>
+                                <Label Text="Celular:" Grid.Column="0" Grid.Row="3"/>
+                                <Label Text="{Binding Celular}" Grid.Column="1" Grid.Row="3"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btAlterar" Text="Alterar" HorizontalOptions="Center" IsVisible="False" Clicked="Alterar"/>
+                <Button x:Name="btExcluir" Text="Excluir" HorizontalOptions="Center" IsVisible="False" Clicked="ExcluirAsync"/>
+            </StackLayout>
+            <Button Text="Voltar" Clicked="Voltar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\bin\Debug\netstandard2.0\AgendaNoite.deps.json
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\bin\Debug\netstandard2.0\AgendaNoite.dll
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\bin\Debug\netstandard2.0\AgendaNoite.pdb
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.csprojResolveAssemblyReference.cache
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.csproj.CoreCompileInputs.cache
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.App.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.MainPage.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pageAlterar.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pageCadastrar.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pageExcluir.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pageListar.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pageLocalizar.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.Principal.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.AssemblyInfoInputs.cache
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.AssemblyInfo.cs
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.dll
+C:\Users\danilo.filitto\source\repos\AgendaNoite\AgendaNoite\AgendaNoite\obj\Debug\netstandard2.0\AgendaNoite.pdb

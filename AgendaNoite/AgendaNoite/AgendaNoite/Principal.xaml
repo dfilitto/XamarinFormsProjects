@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgendaNoite.Principal">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Agenda Super Plus+" HorizontalTextAlignment="Center" FontSize="Medium"/>
+            <Image Source="" />
+            <Button x:Name="btCadastrar" Text="Cadastrar" Clicked="Cadastrar"/>
+            <Button x:Name="btListar" Text="Listar"  Clicked= "Listar"/>
+            <Button x:Name="btLocalizar" Text="Localizar" Clicked="Localizar"/>
+            <Button x:Name="btExcluir" Text="Excluir" Clicked="Excluir"/>
+            <Button x:Name="btAlterar" Text="Alterar" Clicked="Alterar"/>
+            <Button x:Name="btSair" Text="Sair" Clicked="Sair"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
