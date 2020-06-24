@@ -7,6 +7,8 @@ Caso queira aprender como construir esses jogos acesse:
 - dfilitto (YouTube): https://www.youtube.com/danilofilittoppr
 ### AgendaNoite
 Aplicativo voltado para controlar todos os contatos de uma pessoa (CRUD) armazenando todos os dados em banco de dados SqLite.
+### AppAreaTriangulo
+Aplicativo que calcula a área de um triângilo.
 ### AppBolaMagica
 Aplicativo que simula o jogo bola mágica 8. O usuário chacoalha o dispositivo e o mesmo apresenta a resposta da pergunta efetuada pelo usuário. Utiliza o giroscópio do celular.
 ### AppEmailParaVoce
