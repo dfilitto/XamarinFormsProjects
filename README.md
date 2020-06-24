@@ -11,6 +11,8 @@ Aplicativo voltado para controlar todos os contatos de uma pessoa (CRUD) armazen
 Aplicativo que calcula a área de um triângilo.
 ### AppBolaMagica
 Aplicativo que simula o jogo bola mágica 8. O usuário chacoalha o dispositivo e o mesmo apresenta a resposta da pergunta efetuada pelo usuário. Utiliza o giroscópio do celular.
+### AppBuscaSites
+Aplicativo que exibe os sites presentes em uma lista.
 ### AppEmailParaVoce
 Aplicativo que envia frases para uma pessoa por e-mail
 ### AppEsqueci
